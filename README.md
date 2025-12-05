@@ -5,9 +5,10 @@
 ---
 
 ## Integrantes del Equipo (Collaborators)
-* Jose Manuel Rivera Laura (@manuelrivera8245)
-* Angelo Jesus Saavedra Chavez (@Gelo-cpu)
-* Jeremy Yober Reyes Garcilazo (@jerreyesga-debug)
+* **Jose Manuel Rivera Laura** (@manuelrivera8245)
+* **Angelo Jesus Saavedra Chavez** (@Gelo-cpu)
+* **Jeremy Yober Reyes Garcilazo** (@jerreyesga-debug)
+* 
 ---
 
 ##  Descripción del Proyecto
