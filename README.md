@@ -4,6 +4,12 @@
 
 ---
 
+## Integrantes del Equipo (Collaborators)
+* Manuel Rivera (@manuelrivera8245)
+* Angelo Jesus Saavedra Chavez (@Gelo-cpu)
+* Jeremy Yober Reyes Garcilazo (@jerreyesga-debug)
+---
+
 ##  Descripción del Proyecto
 
 Este sistema fue desarrollado para modernizar el proceso de atención de la **Pollería Cisne Dorado**. Soluciona la necesidad de centralizar los pedidos vía web, permitiendo a los clientes realizar compras sin intermediarios, a los administradores controlar el flujo de caja y productos, y a los repartidores gestionar sus entregas desde una interfaz móvil.
