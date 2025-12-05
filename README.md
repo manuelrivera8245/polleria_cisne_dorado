@@ -6,8 +6,8 @@
 
 ## Integrantes del Equipo (Collaborators)
 * **Jose Manuel Rivera Laura** ([@manuelrivera8245](https://github.com/manuelrivera8245))
-* **Angelo Jesus Saavedra Chavez** ([@Gelo-cpu](https://github.com/Gelo-cpu))
-* **Jeremy Yober Reyes Garcilaso** ([@jerreyesga-debug](https://github.com/jerreyesga-debug))
+* **Angelo Jesus Saavedra Chave** ([@Gelo-cpu](https://github.com/Gelo-cpu))
+* **Jeremy Yober Reyes Garcilazo** ([@jerreyesga-debug](https://github.com/jerreyesga-debug))
 
 ---
 
